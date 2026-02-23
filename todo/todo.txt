@@ -1,0 +1,5 @@
+TODO:
+- Learn git add
+- Learn git commit
+- bla
+- bla
